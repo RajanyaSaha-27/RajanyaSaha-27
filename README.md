@@ -1,4 +1,6 @@
 ## Hi there 👋
+<strong>Holopin badges</strong>
+
 [![An image of @rajanya_saha_27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajanya_saha_27)](https://holopin.io/@rajanya_saha_27)
 <!--
 **RajanyaSaha-27/RajanyaSaha-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
